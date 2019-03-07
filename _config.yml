@@ -1,6 +1,6 @@
 # Site settings
-title: Dong Liang's CV 
-description: ddbullfrog's CV
+title: Sharath Samala's CV 
+description: Data Engineer with 4+ years of overall work experience
 favicon: /assets/img/avatar.JPG
 baseurl: https://ddbullfrog.github.io/resumecard
 url: https://ddbullfrog.github.io/resumecard
@@ -14,14 +14,14 @@ exclude: [vendor]
 
 # Author settings
 author:
-  name: Dong Liang
-  title: Java Developer
-  address: Auckland, New Zealand
-  email: dongg.liang#gmail.com
-  link: http://ddbullfrog.com
+  name: Sharath Samala
+  title: Data Engineer
+  address: Hyderabad, India
+  email: sharathsamala@live.com
+  link: https://www.linkedin.com/in/sharathsamala/
   weibo:
-  github: ddbullfrog
-  linkedin: ddbullfrog
+  github: sharathsamala
+  linkedin: sharathsamala
   twitter: ddbullfrog
   gavatar: /resumecard/assets/img/avatar.JPG
   stackoverflow:
@@ -59,29 +59,29 @@ author:
       description: I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description.
   languages:
     - language1:
-      name: Chinese
+      name: Telugu
       proficiency: Native
     - language2:
       name: English
       proficiency: Professional
     - language3:
-      name: Japanese
+      name: Hindi
       proficiency: Limit
   programmingSkills:
     - skill1:
-      name: HTML
+      name: Hadoop
       percentage: 100%
     - skill2:
-      name: Bootstrap
+      name: Spark
       percentage: 90%
     - skill3:
-      name: JavaScript
+      name: Python
       percentage: 70%
     - skill4:
-      name: AngularJS
+      name: Scala
       percentage: 70%
     - skill5:
-      name: Java/Java EE
+      name: Data Engineering
       percentage: 90%
 
 theme: jekyll-theme-cayman
