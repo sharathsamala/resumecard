@@ -1,7 +1,7 @@
 # Site settings
 title: Sharath Samala's CV 
 description: Data Engineer with 4+ years of overall work experience
-favicon: /assets/img/avatar.JPG
+favicon: /assets/img/sharathsamala_img.JPG
 baseurl: https://sharathsamala.github.io/resumecard
 url: https://sharathsamala.github.io/resumecard
 rss_url: /pages/atom.xml
